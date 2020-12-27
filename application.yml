@@ -1,0 +1,9 @@
+my:
+  greeting : Hello from config server
+  list:
+    value : One, Two, Three, Four, Five
+
+db:
+  connection : Connection String from config server
+  host: 127.0.0.1
+  port : 6033
